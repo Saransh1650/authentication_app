@@ -1,6 +1,6 @@
 # authentication_app
 
-Authentication application.
+Authentication application using Flutter and firebase for android,IOS and Web applications 
 
 
 ![Screenshot (375)](https://user-images.githubusercontent.com/91770163/230959447-786225c1-ced1-4baa-bb61-5aa0c7d9b28e.png)
